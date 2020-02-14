@@ -11,3 +11,8 @@ Added Richardson's Extrapolation in the drop down 'File' menu. Takes a function 
 May 2019
 -
 Added Interpolation using Composite Simpson's Rule.
+
+February 2020
+-
+In order to run the executable you may need .NET Framework 4.6.1 which can be downloaded here:
+  https://dotnet.microsoft.com/download/dotnet-framework
